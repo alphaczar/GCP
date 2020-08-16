@@ -1,2 +1,2 @@
 # Google Cloud Console
-GCP tutorials for OCR,NLP,Sentiment Analysis,Entity Extraction
+GCP tutorials for OCR,NLP,Sentiment Analysis,Entity Extraction and AutoML(NLP)
